@@ -59,7 +59,7 @@ l)  concatMatrix
 
 m)  ref
 - input: a matrix
-- return: the matrix in row echelon form( (upper triangular)
+- return: the matrix in row echelon form (upper triangular)
 
 n)  rref
 - input: a matrix
